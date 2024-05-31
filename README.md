@@ -1,2 +1,2 @@
 # ML-algo-collection
-Repository contains a range of key machine learning algorithms implemented from scratch in python using only numpy
+Repository contains a range of key machine learning algorithms ranging from preprocessing such as boostrapping for random forests, too complete classifier implementations such as KNN alongside variants such as Cost-Sensitive KNN. In process of collating algorithms - will upload soon...
