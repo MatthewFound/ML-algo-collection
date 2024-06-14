@@ -6,6 +6,7 @@ Functions include:
 - Classifier Performance Metrics 
 - Logistic Regression
 - K-Nearest Neighbours Classifier and KNN Variants e.g. Cost-Sensitive, Grouped, Auto-Grouped
+- Bootstrapping Function
 - Adaptive Boosting Classifier (AdaBoost)
 - Random Forest Classifier
 - OvO Classification Algorithm
