@@ -1,2 +1,11 @@
 # ML-algo-collection
-Repository contains a range of key machine learning algorithms ranging from preprocessing such as boostrapping for random forests, too complete classifier implementations such as KNN alongside variants such as Cost-Sensitive KNN. In process of collating algorithms - will upload soon...
+Repository contains a range of from-scratch python functions for Machine Learning. Included functions range from preprocessing techniques such as bootstrapping to full object-oriented classification models such as K-Nearest Neighbours (KNN). They are written such that they are easily adaptable to a range of input forms and only use NumPy for array manipulation.
+
+Functions include:
+- Rebalence and Stratified Split
+- Classifier Performance Metrics 
+- Logistic Regression
+- K-Nearest Neighbours Classifier and KNN Variants e.g. Cost-Sensitive, Grouped, Auto-Grouped
+- Adaptive Boosting Classifier (AdaBoost)
+- Random Forest Classifier
+- OvO Classification Algorithm
